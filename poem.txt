@@ -7,4 +7,5 @@ purple
 brown
 pink
 teal
-black and white
+black 
+white
